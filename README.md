@@ -6,11 +6,12 @@ Given the city's roads were originally designed for horse and cart, this area an
 In this project, we will work with a slightly modified version of a dataset containing information about public transport journey volume by transport type.
 
 The data has been loaded into a Snowflake database called TFL with a single table called JOURNEYS, including the following data:
-TFL.JOURNEYS
-Column	Definition	Data type
-MONTH	Month in number format, e.g., 1 equals January	INTEGER
-YEAR	Year	INTEGER
-DAYS	Number of days in the given month	INTEGER
-REPORT_DATE	Date that the data was reported	DATE
-JOURNEY_TYPE	Method of transport used	VARCHAR
-JOURNEYS_MILLIONS	Millions of journeys, measured in decimals	FLOAT
+### TFL.JOURNEYS
+| Column | Definition | Data type |
+|--------|------------|-----------|
+| `MONTH`| Month in number format, e.g., `1` equals January | `INTEGER` |
+| `YEAR` | Year | `INTEGER` |
+| `DAYS` | Number of days in the given month | `INTEGER` |
+| `REPORT_DATE` | Date that the data was reported | `DATE` |
+| `JOURNEY_TYPE` | Method of transport used | `VARCHAR` |
+| `JOURNEYS_MILLIONS` | Millions of journeys, measured in decimals | `FLOAT` |
