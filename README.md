@@ -7,9 +7,12 @@ In this project, we will work with a slightly modified version of a dataset cont
 
 The data has been loaded into a Snowflake database called TFL with a single table called JOURNEYS, including the following data:
 ### TFL.JOURNEYS
+
 | Column | Definition | Data type |
+
 |--------|------------|-----------|
 | `MONTH`| Month in number format, e.g., `1` equals January | `INTEGER` |
+
 | `YEAR` | Year | `INTEGER` |
 | `DAYS` | Number of days in the given month | `INTEGER` |
 | `REPORT_DATE` | Date that the data was reported | `DATE` |
