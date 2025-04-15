@@ -9,10 +9,8 @@ The data has been loaded into a Snowflake database called TFL with a single tabl
 ### TFL.JOURNEYS
 
 | Column | Definition | Data type |
-
 |--------|------------|-----------|
 | `MONTH`| Month in number format, e.g., `1` equals January | `INTEGER` |
-
 | `YEAR` | Year | `INTEGER` |
 | `DAYS` | Number of days in the given month | `INTEGER` |
 | `REPORT_DATE` | Date that the data was reported | `DATE` |
