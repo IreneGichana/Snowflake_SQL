@@ -25,3 +25,18 @@ The data has been loaded into a Snowflake database called TFL with a single tabl
 | `JOURNEYS_MILLIONS` | Millions of journeys, measured in decimals | `FLOAT` |
 
 ## Data Analysis and Insights
+### Most popular transport type
+![Screenshot (2876)](https://github.com/user-attachments/assets/82dc6eb5-ab4c-44fb-aa09-ab19f29a77e0)
+
+### Popular days by bus
+![Screenshot (2878)](https://github.com/user-attachments/assets/2fcab6b4-cab9-4fe7-8209-0924368ec909)
+
+### Emirates airline popularity
+![Screenshot (2879)](https://github.com/user-attachments/assets/418c828c-4f47-4cbd-a68a-e23bc8dc9130)
+
+
+### Least tube year popularity
+![Screenshot (2880)](https://github.com/user-attachments/assets/02dc3220-52fa-4c41-a10d-874c6eba5d62)
+
+### Tram popularity
+![Screenshot (2882)](https://github.com/user-attachments/assets/fe2ace10-5f22-4000-b3fc-288eaf8e3718)
