@@ -5,6 +5,13 @@ Given the city's roads were originally designed for horse and cart, this area an
 
 In this project, we will work with a slightly modified version of a dataset containing information about public transport journey volume by transport type.
 
+## Questions of analysis
+1. What are the most popular transport types?
+2. Days the bus is the most busy
+3. Which five months and years were the most popular for the Emirates Airline? 
+4. Find the five years with the lowest volume of Underground & DLR journeys
+5. Popularity of the Tram
+
 The data has been loaded into a Snowflake database called TFL with a single table called JOURNEYS, including the following data:
 ### TFL.JOURNEYS
 
@@ -16,3 +23,5 @@ The data has been loaded into a Snowflake database called TFL with a single tabl
 | `REPORT_DATE` | Date that the data was reported | `DATE` |
 | `JOURNEY_TYPE` | Method of transport used | `VARCHAR` |
 | `JOURNEYS_MILLIONS` | Millions of journeys, measured in decimals | `FLOAT` |
+
+## Data Analysis and Insights
