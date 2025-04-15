@@ -36,7 +36,8 @@ The data has been loaded into a Snowflake database called TFL with a single tabl
 
 
 ### Least tube year popularity
-![Screenshot (2880)](https://github.com/user-attachments/assets/02dc3220-52fa-4c41-a10d-874c6eba5d62)
+![Screenshot (2883)](https://github.com/user-attachments/assets/7d964374-4963-49b6-a415-92a55432dfe4)
+
 
 ### Tram popularity
 ![Screenshot (2882)](https://github.com/user-attachments/assets/fe2ace10-5f22-4000-b3fc-288eaf8e3718)
